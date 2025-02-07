@@ -4,7 +4,7 @@ OctoBlank is a chatbot AI developed in Python using the GPT4All library. It feat
 
 ## Features
 - **Memory System**: 
-  - Save memory in a JSON file (`dtb.json`).
+  - Memory system is in a JSON file (`dtb.json`) that can be modified and seen by the user.
   - Use `/dmem` to delete all stored memory.
   - Use `/save` to store memory, e.g. `/save and what you want the AI to remember`
 - **Pygame Interface**: 
