@@ -1,2 +1,4 @@
 pygame==2.6.1
 gpt4all==2.8.2
+
+Python 3.13.2 (64-bit)
